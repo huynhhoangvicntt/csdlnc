@@ -1,0 +1,40 @@
+Em chào thầy ạ 
+Dưới đây là phần hướng dẫn của nhóm em thầy có thể thực hiện theo các bước đễ dễ dàng hơn trong việc cài đặt và chạy chương trình ạ 
+Em cảm ơn 
+
+Công cụ hỗ trợ
+SQL Server
+Netbeans IDE 8.2
+
+
+Các bước thực hiện để chạy csdl
+
+B1 : Tải file csdl từ gitbub
+
+B2 : Mở file csdl với SQL Server
+
+B3 : Chạy các bảng có trong database
+
+
+
+
+
+Các bước để chạy phần code
+
+B1 : Tải file code từ gibhub
+
+B2 : Mở file với Netbeans IDE
+
+B3 : Thực hiện đổi đường dẫn đến SQL Server trong phần Source Packages / context/ DBContext.java
+
+B4 : Chạy chương trình (run ở phần Source Packages / control/ homeControl.java )  
+
+
+ĐĂNG NHẬP ADMIN VỚI
+
+TK   : Admin
+Pass : 123456
+
+
+
+
